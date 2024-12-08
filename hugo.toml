@@ -1,0 +1,4 @@
+baseURL = 'https://dansunmi.github.io'
+languageCode = 'en-us'
+title = 'My New Hugo Site testtest'
+theme = 'ananke'
